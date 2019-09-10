@@ -1,0 +1,15 @@
+
+.first_input{
+	font-size: 35rpx;
+	width: 400rpx;
+	line-height: 60rpx;
+	padding-left: 40rpx;
+}
+.sexData_second{
+	margin-top: 20rpx;
+	text-align: center;
+}
+.sexData_second_btn{
+	width: 80%;
+}
+

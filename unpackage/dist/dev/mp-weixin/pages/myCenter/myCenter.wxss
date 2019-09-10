@@ -1,0 +1,63 @@
+
+.center_none_all{
+	width: 100%;
+	height: 200rpx;
+	background-color: #C4BD36;
+}
+.center_none_all{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	padding: 20rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.none_tou_xiang{
+	width: 100rpx;
+	height: 100rpx;
+	border-radius: 50%;
+}
+.none_content{
+	font-size: 40rpx;
+	font-weight: bold;
+	margin-left: 10rpx;
+}
+.my_center_all{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	padding: 10rpx;
+}
+.my_center_nickname{
+	font-size: 40rpx;
+}
+.my_center_modify{
+	font-size: 40rpx;
+}
+.center_modify{
+	width: 350rpx;
+	line-height: 80rpx;
+}
+.center_out_btn{
+	width: 80%;
+	margin: 60rpx auto;
+}
+.My_center_body{
+	width: 100%;
+	height: 100vh;
+	position: relative;
+}
+.my_center_out{
+	width: 100%;
+	position: absolute;
+	bottom: 50rpx;
+}
+

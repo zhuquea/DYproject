@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/search/search",
+    "pages/myCenter/myCenter",
+    "pages/details/details",
+    "pages/login/login",
+    "pages/personalData/personalData",
+    "pages/sexData/sexData",
+    "pages/birthdayData/birthdayData"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "首页",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "static/picture/home.png",
+        "selectedIconPath": "static/picture/home-red.png"
+      },
+      {
+        "pagePath": "pages/search/search",
+        "text": "搜索",
+        "iconPath": "static/picture/search.png",
+        "selectedIconPath": "static/picture/search-red.png"
+      },
+      {
+        "pagePath": "pages/myCenter/myCenter",
+        "text": "我的",
+        "iconPath": "static/picture/my.png",
+        "selectedIconPath": "static/picture/my-red.png"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap37.json"
+}

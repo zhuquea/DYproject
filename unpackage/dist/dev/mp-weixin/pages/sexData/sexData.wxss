@@ -1,0 +1,12 @@
+
+.sexData_first{
+	padding: 10rpx;
+}
+.sexData_second{
+	margin-top: 20rpx;
+	text-align: center;
+}
+.sexData_second_btn{
+	width: 80%;
+}
+

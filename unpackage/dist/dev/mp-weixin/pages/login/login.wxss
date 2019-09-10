@@ -1,0 +1,113 @@
+
+.H5_first{
+	text-align: center;
+}
+.H5_first_img{
+	width: 150rpx;
+	height: 150rpx;
+	border-radius: 50%;
+	margin-top: 35%;
+}
+.H5_second{
+	text-align: center;
+	line-height: 30rpx;
+	position: relative;
+	margin-top: 20rpx;
+}
+.H5_second_name{
+	width: 600rpx;
+	height: 60rpx;
+	font-size: 30rpx;
+	padding-left: 40rpx;
+	-webkit-box-shadow: 2rpx 2rpx 8rpx 6rpx rgba(0,0,0,0.1);
+	        box-shadow: 2rpx 2rpx 8rpx 6rpx rgba(0,0,0,0.1);
+	margin: 0 auto;
+}
+.H5_second_password{
+	width: 600rpx;
+	height: 60rpx;
+	font-size: 30rpx;
+	padding-left: 40rpx;
+	-webkit-box-shadow: 2rpx 2rpx 8rpx 6rpx rgba(0,0,0,0.1);
+	        box-shadow: 2rpx 2rpx 8rpx 6rpx rgba(0,0,0,0.1);
+	margin: 0 auto;
+}
+.H5_second_1{
+	font-size: 35rpx;
+	position: absolute;
+	top: 15rpx;
+	left: 100rpx;
+}
+.H5_second_2{
+	font-size: 35rpx;
+	position: absolute;
+	top: 15rpx;
+	left: 100rpx;
+}
+.H5_third_btn{
+	width: 80%;
+	margin: 60rpx auto;
+}
+.WEIXIN_first{
+	text-align: center;
+}
+.WEIXIN_first_img{
+	width: 150rpx;
+	height: 150rpx;
+	border-radius: 50%;
+	margin-top: 25%;
+}
+.WEIXIN_second_name{
+	width: 600rpx;
+	height: 80rpx;
+	font-size: 36rpx;
+	padding-left: 40rpx;
+	-webkit-box-shadow: 2rpx 2rpx 8rpx 6rpx rgba(0,0,0,0.1);
+	        box-shadow: 2rpx 2rpx 8rpx 6rpx rgba(0,0,0,0.1);
+	margin: 0 auto;
+}
+.WEIXIN_second_password{
+	width: 600rpx;
+	height: 80rpx;
+	font-size: 36rpx;
+	padding-left: 40rpx;
+	-webkit-box-shadow: 2rpx 2rpx 8rpx 6rpx rgba(0,0,0,0.1);
+	        box-shadow: 2rpx 2rpx 8rpx 6rpx rgba(0,0,0,0.1);
+	margin: 0 auto;
+}
+.WEIXIN_second_1{
+	font-size: 38rpx;
+	position: absolute;
+	top: 24rpx;
+	left: 100rpx;
+}
+.WEIXIN_second_2{
+	font-size: 38rpx;
+	position: absolute;
+	top: 24rpx;
+	left: 100rpx;
+}
+.WEIXIN_fourth{
+	text-align: center;
+	line-height: 50rpx;
+}
+.WEIXIN_fourth_1{
+	font-size: 28rpx;
+	color: #808080;
+}
+.WEIXIN_fourth_2{
+	width: 80rpx;
+	height: 80rpx;
+	border-radius: 50%;
+}
+.APP-PLUS_fourth_img{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+
